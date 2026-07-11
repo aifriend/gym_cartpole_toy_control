@@ -1,3 +1,4 @@
+# ruff: noqa: F821 -- tutorial snippet; DQNSolver is defined in cartpole/cartpole_dqn.py
 import numpy as np
 import gym
 
